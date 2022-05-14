@@ -23,7 +23,7 @@ $ pkg install git -y && pkg install nodejs -y && git clone https://github.com/TO
 
 [![Run on Repl.it](https://repl.it/badge/github/TOXIC-DEVIL/WhatsApp-Bot)](https://replit.com/@TOXICDEVIL/Leon)
 
-[![Deploy-Leon](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC-DEVIL/Leon)
+[![Deploy-Leon](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DRIPS-BOT/Leon)
 
 > [Leon Installation Tutorial](https://youtu.be/eZ3xhIWnuyY)
 
